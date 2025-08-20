@@ -1,0 +1,5 @@
+{
+  "name": "Revisor de Código con IA",
+  "description": "Una herramienta automatizada de revisión de código impulsada por Gemini. Pega tu código, selecciona el lenguaje y recibe feedback instantáneo y detallado sobre errores, rendimiento, estilo y mejores prácticas.",
+  "requestFramePermissions": []
+}
